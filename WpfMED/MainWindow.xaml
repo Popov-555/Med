@@ -104,6 +104,7 @@
     Checked="RadioButton_Checked"
     VerticalAlignment="Center"/>
             </WrapPanel>
+            <Image Margin="10,0,0,0" Source="images.png" Stretch="Fill" Grid.Row="1"/>
         </Grid>
     </Grid>
 </Window>
