@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WpfMED\WpfMED\obj\Debug\WpfMED.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WpfMED\WpfMED\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\WpfMED\WpfMED\obj\Debug\App.g.cs
+C:\Users\User\source\repos\WpfMED\WpfMED\obj\Debug\WpfMED_MarkupCompile.cache
+C:\Users\User\source\repos\WpfMED\WpfMED\obj\Debug\WpfMED_MarkupCompile.lref
+C:\Users\User\source\repos\WpfMED\WpfMED\bin\Debug\WpfMED.exe.config
+C:\Users\User\source\repos\WpfMED\WpfMED\bin\Debug\WpfMED.exe
+C:\Users\User\source\repos\WpfMED\WpfMED\bin\Debug\WpfMED.pdb
+C:\Users\User\source\repos\WpfMED\WpfMED\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\WpfMED\WpfMED\obj\Debug\WpfMED.g.resources
+C:\Users\User\source\repos\WpfMED\WpfMED\obj\Debug\WpfMED.Properties.Resources.resources
+C:\Users\User\source\repos\WpfMED\WpfMED\obj\Debug\WpfMED.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WpfMED\WpfMED\obj\Debug\WpfMED.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WpfMED\WpfMED\obj\Debug\WpfMED.exe
+C:\Users\User\source\repos\WpfMED\WpfMED\obj\Debug\WpfMED.pdb
